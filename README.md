@@ -5,9 +5,9 @@ A simple drawing app, built with [Coder For Raspberry Pi](http://googlecreativel
 
 You can add **Canvas Paint** to your Coder by creating a new app and choosing to upload the `canvas_paint.zip` file from this repo. The zip file bundles the `app`, `views` and `static` folders from this repo.
 
-### Screenshot 01
+
 ![Screenshot](https://raw.github.com/projectweekend/coder-canvas-paint/master/screenshots/01.png)
 
-### Screenshot 02
+
 ![Screenshot](https://raw.github.com/projectweekend/coder-canvas-paint/master/screenshots/02.png)
 
