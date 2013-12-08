@@ -1,0 +1,29 @@
+
+.pagecontent {
+    padding: 24px;
+    float: left;
+}
+
+#my-canvas {
+    float: left;
+    border: black 1px solid;
+}
+
+#control-panel {
+    float: left;
+    padding: 0px 0px 0px 5px;
+}
+
+.control-element {
+    padding: 5px;
+}
+
+.control-element > label {
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.control-element > input {
+    width: 100%;
+}
